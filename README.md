@@ -16,7 +16,7 @@ Beginner level task to create a todo list webapp
 Intermediate Level task to create a registration form whose data is displayed in same page 
 
 
-      Languages used:
+     Languages used:
         * HTML
         * CSS
         * JavaScript
