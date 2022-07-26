@@ -3,7 +3,8 @@ In this Repository, All the tasks code are uploaded which I had completed during
 
 #LGMVIP-Web Task 1
 Beginner level task to create a todo list webapp
- Languages used:
+
+Languages used:
       * HTML
       * CSS
       * JavaScript
@@ -14,7 +15,8 @@ Beginner level task to create a todo list webapp
 #LGMVIP-Web Task 3
 Intermediate Level task to create a registration form whose data is displayed in same page 
 
- Languages used:
+
+  Languages used:
       * HTML
       * CSS
       * JavaScript
